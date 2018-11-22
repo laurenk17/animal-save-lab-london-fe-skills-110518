@@ -9,4 +9,15 @@ html {
 }
 
 /* Write your solution here */
-
+@media screen and (min-width:406px) and (max-width:1169px) {
+  #monkey{
+    position:absolute;
+    top:0;
+  }
+}
+@media screen and (min-width:1170px) {
+  #monkey {
+  position:absolute;
+  top:550px;
+  }
+}
